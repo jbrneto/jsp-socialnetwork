@@ -1,7 +1,7 @@
 # JSPSocialNetwork
 An enterprise social networking made in JSP with MySQL database.
 
-Uma rede social empresaria feita em JSP com banco de dados MySQL.
+Uma rede social empresarial feita em JSP com banco de dados MySQL.
 
 Functional specifications:
   - Live chat (send and recive)
